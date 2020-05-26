@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{"0Aie":function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),l=a.n(n),c=a("Wbzz"),o=a("Bl7J"),u=a("vrFN");t.default=function(e){return l.a.createElement(o.a,null,l.a.createElement(u.a,{title:"Contact us"}),l.a.createElement("h1",null,"Contact us"),l.a.createElement("p",null,"Email us at admin@themindfulway.org"),l.a.createElement(c.Link,{to:"/"},"Go back to the homepage"))}}}]);
+//# sourceMappingURL=component---src-pages-contact-tsx-e22cdf0f5aac75dda268.js.map
