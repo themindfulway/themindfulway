@@ -8,13 +8,13 @@ import SEO from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
-    <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
+    <h1>The Mindful Way</h1>
+    <p>Mindfulness is a way of life, and the principles apply to each and every living moment</p>
+    <p>This website is dedicated to sharing knowledge, experiences and thoughts about living life The Mindful Way</p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
-    <Link to="/page-2/">Go to page 2</Link>
+    <Link to="/contact/">Contact us</Link>
   </Layout>
 )
 
