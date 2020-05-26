@@ -35,9 +35,10 @@ const Layout = ({ children }) => {
       >
         <main>{children}</main>
         <footer>
-          © {new Date().getFullYear()},
+          <br></br>
+          <p>© {new Date().getFullYear()},
           {` `}
-          <a href="http://www.themindfulway.org">The Mindful Way</a>
+          <a href="http://www.themindfulway.org">The Mindful Way</a></p>
         </footer>
       </div>
     </>

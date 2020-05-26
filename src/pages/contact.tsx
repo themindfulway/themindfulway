@@ -9,7 +9,7 @@ const SecondPage = (props: PageProps) => (
   <Layout>
     <SEO title="Contact us" />
     <h1>Contact us</h1>
-    <p>Email us at admin@themindfulway.org({props.path})</p>
+    <p>Email us at admin@themindfulway.org</p>
     <Link to="/">Go back to the homepage</Link>
   </Layout>
 )
