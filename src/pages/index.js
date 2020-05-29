@@ -10,7 +10,7 @@ const IndexPage = () => (
     <SEO title="Home" />
     <p>Mindfulness is a way of life and the principles of mindfulness can be applied to each and every living moment.</p>
     <p>This website is dedicated to sharing knowledge, experiences and thoughts about living life <i>The Mindful Way</i></p>
-    <p>Here's a short poem that summarises the mindful way of life:</p>
+    <p>Here's a short poem that provides a perspective on a mindful way of life:</p>
     <p>Living life, the mindful way<br />
        It is always now, as they say</p>
     <p>From moment to moment, each moment at a time<br />
