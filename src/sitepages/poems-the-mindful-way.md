@@ -19,9 +19,11 @@ title: "The Mindful Way"
 <table class="tg">
 <thead>
   <tr>
+    <th class="tg-0lax"><h4><a href= "/">Home</a></h4></th>
     <th class="tg-0lax"><h4><a href= "/poems">Poems</a></h4></th>
     <th class="tg-0lax"><h4><a href= "/resources">Resources</a></h4></th>
     <th class="tg-0lax"><h4><a href= "/blogs">Blogs</a></h4></th>
+    <th class="tg-0lax"><h4><a href ="/contact-us">Contact us</a></h4></th>
   </tr>
 </thead>
 </table>
@@ -63,7 +65,3 @@ Different characters as it may seem, we’re all in the same game
 
 It’s a skill to cherish life, in this moment as it is<br>
 It’s as simple as it sounds, you don’t need to be a whiz
-
-<div style="background-color:#ff9933; text-align:center; vertical-align: middle; padding:2px 0;text-color:black">
-<a href ="/contact-us">Contact us</a>
-</div>

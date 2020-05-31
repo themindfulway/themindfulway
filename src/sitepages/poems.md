@@ -19,15 +19,15 @@ title: "Poems"
 <table class="tg">
 <thead>
   <tr>
+    <th class="tg-0lax"><h4><a href= "/">Home</a></h4></th>
     <th class="tg-0lax"><h4><a href= "/poems">Poems</a></h4></th>
     <th class="tg-0lax"><h4><a href= "/resources">Resources</a></h4></th>
     <th class="tg-0lax"><h4><a href= "/blogs">Blogs</a></h4></th>
+    <th class="tg-0lax"><h4><a href ="/contact-us">Contact us</a></h4></th>
   </tr>
 </thead>
 </table>
 </div>
-
-[Home](/)
 
 A mindful way of reading books could be to put the beliefs, characters, the story and any quirks of the author to a side and focus on the message & its relevance to our lives. 
 
@@ -36,7 +36,3 @@ Following books provide very meaningful insights about life, mindfulness and bei
 Mindfulness:
 
 * [The Mindful Way](/poems/the-mindful-way)
-
-<div style="background-color:#ff9933; text-align:center; vertical-align: middle; padding:2px 0;text-color:black">
-<a href ="/contact-us">Contact us</a>
-</div>
