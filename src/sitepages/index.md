@@ -4,7 +4,6 @@ date: "2020-05-25"
 title: "Home"
 ---
 <div style="background-color:#000000; text-align:center; vertical-align: middle; padding:10px 0;text-color:black">
-<style type="text/css">.h1 h2 {color:#ff9933}</style>
 <h1>The Mindful Way</h1>
 </div>
 
