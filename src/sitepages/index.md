@@ -1,10 +1,10 @@
 ---
-slug: "/poems"
+slug: "/"
 date: "2020-05-25"
-title: "Poems"
+title: "Home"
 ---
-<div style="background-color:#ff9933; text-align:center; vertical-align: middle; padding:10px 0;color:black">
-<h1 text-color:black>The Mindful Way</h1>
+<div style="background-color:#ff9933; text-align:center; vertical-align: middle; padding:10px 0;text-color:black">
+<h1>The Mindful Way</h1>
 </div>
 
 <div style="background-color:#ffgggg; text-align:center; vertical-align: middle; padding:0px 0;text-color:black">
@@ -27,15 +27,13 @@ title: "Poems"
 </table>
 </div>
 
-[Home](/)
+<br>
 
-A mindful way of reading books could be to put the beliefs, characters, the story and any quirks of the author to a side and focus on the message & its relevance to our lives. 
+Mindfulness is a way of life and the principles of mindfulness can be applied to each and every living moment.
 
-Following books provide very meaningful insights about life, mindfulness and being. 
+This website is dedicated to sharing knowledge, experiences and thoughts about living life <i>The Mindful Way.</i>
 
-Mindfulness:
-
-* [The Mindful Way](/poems/the-mindful-way)
+Here's a [short poem](/poems/the-mindful-way) that provides a perspective on a mindful way of life.
 
 <div style="background-color:#ff9933; text-align:center; vertical-align: middle; padding:2px 0;text-color:black">
 <a href ="/contact-us">Contact us</a>
