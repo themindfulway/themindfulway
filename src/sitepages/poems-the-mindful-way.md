@@ -4,7 +4,7 @@ date: "2020-05-25"
 title: "The Mindful Way"
 ---
 <div style="background-color:#000000; text-align:center; vertical-align: middle; padding:10px 0;text-color:black">
-<h2>The Mindful Way</h2>
+<h1>The Mindful Way</h1>
 </div>
 
 <div style="background-color:#ffgggg; text-align:center; vertical-align: middle; padding:0px 0;text-color:black">
@@ -28,7 +28,7 @@ title: "The Mindful Way"
 
 [Home](/)>[Poems](/poems)
 
-# The Mindful Way
+## The Mindful Way
 
 Living life, the mindful way <br>
 It is always now, as they say
