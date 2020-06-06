@@ -26,6 +26,4 @@ title: "Blogs"
 </table>
 </div>
 
-### Mindfulness:
-
-* [A journey towards mindfulness (video)](/blogs/mindfulness-journey)
+[A journey towards mindfulness (video)](/blogs/mindfulness-journey)
