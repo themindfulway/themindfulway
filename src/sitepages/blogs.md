@@ -27,3 +27,5 @@ title: "Blogs"
 </div>
 
 [A journey towards mindfulness (video)](/blogs/mindfulness-journey)
+
+[Practicing and learning mindfulness](/blogs/learning-and-practicing)
