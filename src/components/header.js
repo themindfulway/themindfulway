@@ -6,37 +6,34 @@ const Header = ({ siteTitle }) => (
   <header
     style={{
       background: `#000000`,
-      marginBottom: `1.45rem`,
     }}
   >
     <div
       style={{
-        margin: `0 auto`,
-        maxWidth: 960,
-        padding: `1.45rem 1.0875rem`,
+        padding: `0.5rem 0.5rem`,
+        textAlign:'center',
+        float:'none'        
       }}
     >
-      <h3 style={{ margin: 0 }}>
+      <h3>
         <Link
           to="/"
           style={{
             color: `#ff9933`,
             textDecoration: `none`,
-            textAlign:"left",
-            verticalAlign:'top',
-            float:"left"
+            textAlign:'center',
+            verticalAlign:'top'
           }}
         >          
-          {siteTitle}&nbsp;&nbsp;
+          {siteTitle}
         </Link>
       </h3>
-      <h4 
-        style={{ 
-          margin: 0,            
+    <h4 
+        style={{            
           textDecoration: `none`,            
-        padding: `0.3rem 0rem`,         
-          textAlign:'center',
-            float:'none' 
+        padding: `0rem 0rem`,         
+          textAlign:'center',          
+        float:'none'        
             }}
       >
         <Link
@@ -66,11 +63,10 @@ const Header = ({ siteTitle }) => (
         <Link
           style={{     
           textDecoration: `none`,
-          float:'right'    
           }}
           to="/contact-us"
         >
-           &nbsp;&nbsp;&nbsp;&nbsp;Contact us
+           &nbsp;&nbsp;Contact us
         </Link>
       </h4>
     </div>
