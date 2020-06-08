@@ -16,7 +16,7 @@ const Header = ({ siteTitle }) => (
         padding: `1.45rem 1.0875rem`,
       }}
     >
-      <h2 style={{ margin: 0 }}>
+      <h3 style={{ margin: 0 }}>
         <Link
           to="/"
           style={{
@@ -29,12 +29,12 @@ const Header = ({ siteTitle }) => (
         >          
           {siteTitle}
         </Link>
-      </h2>
+      </h3>
       <h4 
         style={{ 
           margin: 0,            
           textDecoration: `none`,            
-        padding: `0.45rem 0.0875rem`,         
+        padding: `0.3rem 0rem`,         
           textAlign:"right",
             float:"right" 
             }}
