@@ -222,7 +222,6 @@ img {
   margin-bottom: 1.45rem;
 }
 h1 {
-  margin-left: 1.45rem;
   margin-right: 0;
   margin-top: 0;
   padding-bottom: 0;
@@ -230,7 +229,7 @@ h1 {
   padding-right: 0;
   padding-top: 0;
   margin-bottom: 1.45rem;
-  color:#ff9933;
+  color:white;
   font-family: Segoe UI;
   font-weight: bold;
   text-rendering: optimizeLegibility;
@@ -238,7 +237,6 @@ h1 {
   line-height: 1.1;
 }
 h2 {
-  margin-left: 1.45rem;
   margin-right: 0;
   margin-top: 0;
   padding-bottom: 0;
@@ -254,7 +252,6 @@ h2 {
   line-height: 1.1;
 }
 h3 {
-  margin-left: 1.45rem;
   margin-right: 0;
   margin-top: 0;
   padding-bottom: 0;
@@ -271,7 +268,6 @@ h3 {
   line-height: 1.1;
 }
 h4 {
-  margin-left: 1.45rem;
   margin-right: 0;
   margin-top: 0;
   padding-bottom: 0;
@@ -287,7 +283,6 @@ h4 {
   line-height: 1.1;
 }
 h5 {
-  margin-left: 1.45rem;
   margin-right: 0;
   margin-top: 0;
   padding-bottom: 0;
@@ -303,7 +298,6 @@ h5 {
   line-height: 1.1;
 }
 h6 {
-  margin-left: 1.45rem;
   margin-right: 0;
   margin-top: 0;
   padding-bottom: 0;
@@ -329,7 +323,7 @@ hgroup {
   margin-bottom: 1.45rem;
 }
 ul {
-  margin-left: 2.9rem;
+  margin-left: 1.45rem;
   margin-right: 0;
   margin-top: 0;
   padding-bottom: 0;
@@ -374,7 +368,6 @@ dd {
 }
 p {
   color:white;
-  margin-left: 1.45rem;
   margin-right: 0;
   margin-top: 0;
   padding-bottom: 0;

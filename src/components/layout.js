@@ -28,18 +28,13 @@ const Layout = ({ children }) => {
       <Header siteTitle={data.site.siteMetadata.title} />
       <div
         style={{
+          textAlign:'left',
           margin: `0 auto`,
           maxWidth: 960,
           padding: `0 1.0875rem 1.45rem`,
         }}
-      >
+      >       
         <main>{children}</main>
-        <footer>
-          <br></br>
-          <p>© {new Date().getFullYear()},
-          {` `}
-          <a href="http://www.themindfulway.org">The Mindful Way</a></p>
-        </footer>
       </div>
     </>
   )
