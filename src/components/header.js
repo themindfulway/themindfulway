@@ -73,7 +73,6 @@ const Header = ({ siteTitle }) => (
            &nbsp;&nbsp;&nbsp;&nbsp;Contact us
         </Link>
       </h4>
-      <br></br>
     </div>
   </header>
 )
