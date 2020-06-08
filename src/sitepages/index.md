@@ -3,7 +3,6 @@ slug: "/"
 date: "2020-05-25"
 title: "Home"
 ---
-<br>
 
 Mindfulness is a way of life and the principles of mindfulness can be applied to each and every living moment.
 

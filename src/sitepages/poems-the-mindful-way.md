@@ -6,7 +6,7 @@ title: "The Mindful Way"
 
 [Home](/)>[Poems](/poems)
 
-## The Mindful Way
+#### The Mindful Way
 
 Living life, the mindful way <br>
 It is always now, as they say
