@@ -1,5 +1,5 @@
 html {
-  font-family: sans-serif;
+  font-family: Segoe UI;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
@@ -42,6 +42,7 @@ template {
 a {
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
+  font-family: Segoe UI;
 }
 a:active,
 a:hover {
@@ -94,7 +95,7 @@ code,
 kbd,
 pre,
 samp {
-  font-family: monospace, monospace;
+  font-family: Segoe UI;
   font-size: 1em;
 }
 figure {
@@ -200,7 +201,7 @@ html {
 }
 body {
   color: hsla(0, 0%, 0%, 0.8);
-  font-family: georgia, serif;
+  font-family: Segoe UI;
   font-weight: normal;
   word-wrap: break-word;
   font-kerning: normal;
@@ -221,7 +222,6 @@ img {
   margin-bottom: 1.45rem;
 }
 h1 {
-  margin-left: 0;
   margin-right: 0;
   margin-top: 0;
   padding-bottom: 0;
@@ -229,16 +229,14 @@ h1 {
   padding-right: 0;
   padding-top: 0;
   margin-bottom: 1.45rem;
-  color: inherit;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  color:white;
+  font-family: Segoe UI;
   font-weight: bold;
   text-rendering: optimizeLegibility;
   font-size: 2.25rem;
   line-height: 1.1;
 }
 h2 {
-  margin-left: 0;
   margin-right: 0;
   margin-top: 0;
   padding-bottom: 0;
@@ -246,16 +244,14 @@ h2 {
   padding-right: 0;
   padding-top: 0;
   margin-bottom: 1.45rem;
-  color: inherit;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  color: white;
+  font-family: Segoe UI;
   font-weight: bold;
   text-rendering: optimizeLegibility;
   font-size: 1.62671rem;
   line-height: 1.1;
 }
 h3 {
-  margin-left: 0;
   margin-right: 0;
   margin-top: 0;
   padding-bottom: 0;
@@ -263,7 +259,7 @@ h3 {
   padding-right: 0;
   padding-top: 0;
   margin-bottom: 1.45rem;
-  color: inherit;
+  color: white;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   font-weight: bold;
@@ -272,7 +268,6 @@ h3 {
   line-height: 1.1;
 }
 h4 {
-  margin-left: 0;
   margin-right: 0;
   margin-top: 0;
   padding-bottom: 0;
@@ -280,16 +275,14 @@ h4 {
   padding-right: 0;
   padding-top: 0;
   margin-bottom: 1.45rem;
-  color: inherit;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  color: white;
+  font-family: Segoe UI;
   font-weight: bold;
   text-rendering: optimizeLegibility;
   font-size: 1rem;
   line-height: 1.1;
 }
 h5 {
-  margin-left: 0;
   margin-right: 0;
   margin-top: 0;
   padding-bottom: 0;
@@ -297,16 +290,14 @@ h5 {
   padding-right: 0;
   padding-top: 0;
   margin-bottom: 1.45rem;
-  color: inherit;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  color: white;
+  font-family: Segoe UI;
   font-weight: bold;
   text-rendering: optimizeLegibility;
   font-size: 0.85028rem;
   line-height: 1.1;
 }
 h6 {
-  margin-left: 0;
   margin-right: 0;
   margin-top: 0;
   padding-bottom: 0;
@@ -314,9 +305,8 @@ h6 {
   padding-right: 0;
   padding-top: 0;
   margin-bottom: 1.45rem;
-  color: inherit;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  color: white;
+  font-family: Segoe UI;
   font-weight: bold;
   text-rendering: optimizeLegibility;
   font-size: 0.78405rem;
@@ -377,7 +367,7 @@ dd {
   margin-bottom: 1.45rem;
 }
 p {
-  margin-left: 0;
+  color:white;
   margin-right: 0;
   margin-top: 0;
   padding-bottom: 0;
@@ -410,6 +400,7 @@ pre {
   padding: 1.45rem;
 }
 table {
+  color: white;
   margin-left: 0;
   margin-right: 0;
   margin-top: 0;
@@ -510,17 +501,20 @@ th {
 }
 li {
   margin-bottom: calc(1.45rem / 2);
+  color: white;
 }
 ol li {
   padding-left: 0;
 }
 ul li {
   padding-left: 0;
+  color: white;
 }
 li > ol {
   margin-left: 1.45rem;
   margin-bottom: calc(1.45rem / 2);
   margin-top: calc(1.45rem / 2);
+  color: white;
 }
 li > ul {
   margin-left: 1.45rem;
