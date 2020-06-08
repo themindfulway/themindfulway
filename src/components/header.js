@@ -27,7 +27,7 @@ const Header = ({ siteTitle }) => (
             float:"left"
           }}
         >          
-          {siteTitle}
+          {siteTitle}&nbsp;&nbsp;
         </Link>
       </h3>
       <h4 
@@ -35,8 +35,8 @@ const Header = ({ siteTitle }) => (
           margin: 0,            
           textDecoration: `none`,            
         padding: `0.3rem 0rem`,         
-          textAlign:"right",
-            float:"right" 
+          textAlign:'center',
+            float:'none' 
             }}
       >
         <Link
@@ -65,11 +65,12 @@ const Header = ({ siteTitle }) => (
         </Link>
         <Link
           style={{     
-          textDecoration: `none`     
+          textDecoration: `none`,
+          float:'right'    
           }}
           to="/contact-us"
         >
-           &nbsp;&nbsp;Contact us
+           &nbsp;&nbsp;&nbsp;&nbsp;Contact us
         </Link>
       </h4>
       <br></br>
