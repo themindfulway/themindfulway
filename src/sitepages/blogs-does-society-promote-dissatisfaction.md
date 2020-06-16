@@ -1,5 +1,5 @@
 ---
-slug: "/blogs/blogs-does-society-promote-dissatisfaction"
+slug: "/blogs/does-society-promote-dissatisfaction"
 date: "2020-06-16"
 title: "Blogs"
 ---
