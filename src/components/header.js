@@ -62,6 +62,14 @@ const Header = ({ siteTitle }) => (
         </Link>
         <Link
           style={{     
+          textDecoration: `none`     
+          }}
+          to="/resources"
+        >
+           &nbsp;&nbsp;Resources
+        </Link>
+        <Link
+          style={{     
           textDecoration: `none`,
           }}
           to="/contact-us"
