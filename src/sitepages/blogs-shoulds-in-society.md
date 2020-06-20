@@ -21,3 +21,5 @@ The alternative is to just be and let others be. Accept yourself as one of the m
 If there is one should that one can live by, it should be to not live your life by other people’s shoulds and give others the right to influence one's own mental wellbeing. 
 
 Yuval Noah Harari's book [Sapiens](https://www.goodreads.com/book/show/23692271-sapiens) can help you understand how we've arrived at these shoulds as a society and how it's all made up. Mindfulness can help you develop an understanding of the bias in the society and help you train your mind to be strong and not be affected or influenced by others. 
+
+I am not challenging this way of life or suggesting it is good or bad. It just is, because any judgement would create bias and that will not be a mindful activity. What I am suggesting here is to think about the impact it has on our brain and carefully make choices with the understanding that a lot of things we do in life may just be external influence to our senses and can impact our mental wellbeing. 
