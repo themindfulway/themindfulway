@@ -20,7 +20,7 @@ What we feed to our mind plays an important role in our journey of life. The fol
 #### Books (History / Future)
 
 * [Sapiens by Yuval Noah Harari](https://www.goodreads.com/book/show/23692271-sapiens)
-* [Home Deus by Yuval Noah Harari](https://www.goodreads.com/book/show/31138556-homo-deus)
+* [Homo Deus by Yuval Noah Harari](https://www.goodreads.com/book/show/31138556-homo-deus)
 
 #### Books (Indian Scriptures)
 
