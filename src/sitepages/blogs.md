@@ -7,3 +7,5 @@ title: "Blogs"
 [A journey towards mindfulness (video)](/blogs/mindfulness-journey)
 
 [Practicing and learning mindfulness](/blogs/learning-and-practicing)
+
+[The shoulds in our society](/blogs/shoulds-in-society)

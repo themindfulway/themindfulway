@@ -1,10 +1,12 @@
 ---
 slug: "/blogs/does-society-promote-dissatisfaction"
 date: "2020-06-16"
-title: "Blogs"
+title: "Does our society promote dissatisfaction?"
 ---
 
 [Home](/)>[Blogs](/blogs)
+
+### <p align="center">Does our society promote dissatisfaction?</p>
 
 How many times have you heard someone say or seen an advert which basically boils down to - make more money with less effort? Have you observed that most of the adverts boil down to more pleasure, comfort or saving. The capitalist world that we live in is fundamentally based on maximising income, pleasure and comfort amongst many other things and rests on the shoulders of mutual cooperation as explained by Yuval Noah Harari in his book [Sapiens](https://www.goodreads.com/book/show/23692271-sapiens). In order for the capitalist economy to run efficiently, we need people to strive for more. If people are satisfied with what they have or what they get from life, the current socio-economic setup is likely to collapse. This is what the novel coronavirus and the lockdown has clearly demonstrated. We are currently pausing things, but we all know that the moment the situation changes, people will be back to holidays, restaurants, beaches and so on. There was a time when food, shelter and clothing were the key things that humans needed for survival. The lockdown actually brought us down to the same basics in many ways and gave us a perspective on what we actually need vs what we desire for. Let's put our judgement about what we need and what we desire to a side and just think about this - why do we desire what we desire? Why is everyone so keen to get out of their house that many people are even ready to risk their lives? 
 

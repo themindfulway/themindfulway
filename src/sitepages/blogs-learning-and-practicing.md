@@ -1,11 +1,12 @@
 ---
 slug: "/blogs/learning-and-practicing"
 date: "2020-05-25"
-title: "Blogs"
+title: "Learning and practicing mindfulness"
 ---
 
 [Home](/)>[Blogs](/blogs)
 
+### <p align="center">Learning and practicing mindfulness</p>
 
 In a group of friends, we had an interesting conversation about mindfulness apps which inspired me to share my perspective on this topic. The book Sapiens talks about the concepts of imagined reality and observable reality (or science), and the distinction can be very helpful in understanding the world that we live in. In context of mindfulness, it has been around for a very long time, but only few people have been practicing it in its true sense, because theoretically, if most people in our society were mindful, then stress, depression, anger, greed, anxiety, intolerance, hatred, jealousy and lifestyle diseases like obesity would not exist in the proportions that they do. Mindfulness and its benefits are an imagined reality for many - until the individual makes it an observable reality for themselves. Having said that, the power of science is that science can observe a phenomenon numerous times to conclude that the concept or hypothesis will work in most instances. Science has recently been focussing on mindfulness and prestigious organisations like Harvard, Cambridge and NHS UK have identified quantifiable benefits of mindfulness. The capitalist world that we live in means that every observable reality or emerging science also provides a business opportunity to capitalise on the demand for the concept in the society. Given the origins of mindfulness, the organisations like Dhamma Dipa that teach mindfulness techniques developed by Buddha do not charge a fee for teaching the technique, because the moment money is attached to a cause, money can start influencing the cause in at least two ways. 
 

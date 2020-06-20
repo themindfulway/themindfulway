@@ -1,7 +1,7 @@
 ---
 slug: "/blogs/shoulds-in-society"
 date: "2020-06-20"
-title: "Blogs"
+title: "The Shoulds in our Society"
 ---
 
 [Home](/)>[Blogs](/blogs)

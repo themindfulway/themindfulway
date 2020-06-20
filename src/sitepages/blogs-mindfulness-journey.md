@@ -1,11 +1,12 @@
 ---
 slug: "/blogs/mindfulness-journey"
 date: "2020-05-25"
-title: "Blogs"
+title: "A journey towards mindfulness and a perspective on the why, what and how"
 ---
 
 [Home](/)>[Blogs](/blogs)
 
+### <p align="center">A journey towards mindfulness</p>
 
 This video encapsulates a journey towards mindfulness and a perspective on the why, the what and the how of mindfulness. 
 <br>

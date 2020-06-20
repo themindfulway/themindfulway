@@ -1,10 +1,12 @@
 ---
 slug: "/blogs/stardom"
 date: "2020-06-16"
-title: "Blogs"
+title: "A perspective on promoting stardom"
 ---
 
 [Home](/)>[Blogs](/blogs)
+
+### <p align="center">A perspective on promoting stardom</p>
 
 Mindfulness isn't just about being in control of emotions when we're going through extreme emotions, it's also about understanding the subtle triggers that shape our behaviour and stardom is one of the things that influences a lot of people and I can clearly remember the time when it was a driving factor in my life due to the programming I'd had from my environment. 
 
