@@ -27,9 +27,9 @@ What we feed to our mind plays an important role in our journey of life. The fol
 
 #### Mindfulness articles / videos
 
-* [Introduction to mindfulness by Greater Good Science Center at UC Berkeley](https://greatergood.berkeley.edu/topic/mindfulness/definition#what-is-mindfulness)
+* [Introduction to mindfulness by UC Berkeley](https://greatergood.berkeley.edu/topic/mindfulness/definition#what-is-mindfulness)
 * [How the brain changes when you meditate](https://www.mindful.org/how-the-brain-changes-when-you-meditate/)
-* [Sam Harris and Yuval Noah Harari on special experiences during meditation & being in the present moment](https://www.youtube.com/watch?v=-pORbAOBan8)
+* [Sam Harris and Yuval Noah Harari on expectations from meditation](https://www.youtube.com/watch?v=-pORbAOBan8)
 * [Taoism, the art of not trying](https://youtu.be/tLAZvESoVgI)
 
 #### Indian Scriptures
