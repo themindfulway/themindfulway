@@ -9,3 +9,5 @@ title: "Blogs"
 [Practicing and learning mindfulness](/blogs/learning-and-practicing)
 
 [The shoulds in our society](/blogs/shoulds-in-society)
+
+[Does our society promote dissatisfaction?](/blogs/dissatisfaction)
