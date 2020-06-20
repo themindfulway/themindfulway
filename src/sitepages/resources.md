@@ -9,11 +9,13 @@ What we feed to our mind plays an important role in our journey of life. The fol
 #### Books (Mindfulness)
 
 * [The Power of Now by Eckhart Tolle ](https://www.goodreads.com/book/show/6708.The_Power_of_Now)
+* [Dhammapada - The Buddha's path of wisdom](http://www.buddhanet.net/pdf_file/scrndhamma.pdf)
 
 #### Books (Psychology)
 
 * [Thinking, fast and slow by Daniel Kahneman](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
 * [Behave by Robert M Sapolsky](https://www.goodreads.com/book/show/31170723-behave)
+* [The Art of Happiness by The Dalai Lama](https://www.goodreads.com/book/show/38210.The_Art_of_Happiness)
 
 #### Books (History / Future)
 
