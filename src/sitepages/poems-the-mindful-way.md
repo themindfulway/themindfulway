@@ -15,7 +15,7 @@ From moment to moment, each moment at a time<br>
 Life is its own meaning, it’s not like a dime
 
 The bias in our minds, creates the confusion<br>
-Dropping this bias, is the ultimate solution
+Dropping this bias, is a clear solution
 
 Act for the action, not the results that you seek<br>
 It’s the seeking in life, that makes the mind weak
