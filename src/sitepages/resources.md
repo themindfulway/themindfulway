@@ -25,6 +25,7 @@ What we feed to our mind plays an important role in our journey of life. The fol
 #### Books (Indian Scriptures)
 
 * [The Bhagavad Gita](https://www.bhagavad-gita.org/)
+* [Ashtavakra Gita](https://cleaves.zapto.org/news/attachments/nov2011/ashtavakra_gita__sanskrit_with_english.pdf)
 * [Upanishads](https://www.upanishads.iitk.ac.in/)
 * [Brihadaranyaka Upanishad](https://www.holybooks.com/brihadaranyaka-upanishad/)
 
