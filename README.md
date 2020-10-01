@@ -5,4 +5,4 @@
   The Mindful Way
 </h1>
 
-This is the source code for http://www.themindfulway.org/
+This is the source code for https://www.themindfulway.org/
